@@ -56,8 +56,8 @@ def update_win(win, title, time, outline, rect, pain0, pain10):
 
 def main():
 
-    x = 2046
-    y = 1152
+    x = 720
+    y = 450
 
     args = get_args()
 
