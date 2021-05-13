@@ -1,7 +1,7 @@
 ## vas
 > visual analog scale controlled by keyboard or MRI-compatible botton box
 
-<img src='vas.gif' width='500'>
+<img src='vas.gif' width='550'>
 
 **to run**:
 - `$ python vas.py [--screen <num>]`
